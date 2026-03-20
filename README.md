@@ -134,8 +134,11 @@ Name: SAGNIK CHAUDHURI
 🌐 Deployed dApp & Contract
 
 dApp Link: 
+
 Contract Address: CDDTZRMQVQXHBYHFHLBQ6FTMIDNTHE6LC2XPZWGN654JTBIHCIHORKVW
+
 Network: Stellar Testnet / Mainnet
+
 Explorer: https://stellar.expert/explorer/testnet/contract/CDDTZRMQVQXHBYHFHLBQ6FTMIDNTHE6LC2XPZWGN654JTBIHCIHORKVW
 
 <img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/fd2fa22c-06bb-49e9-81e0-ad1e8ea85d6e" />
